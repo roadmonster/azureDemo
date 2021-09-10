@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2117ea70-e741-4c78-bea0-2e1572d6fa91/resourceGroups/AzureStudy/providers/Microsoft.Web/sites/haolino2",
+    "appService.deploySubpath": "bin/Debug/net5.0"
+}
